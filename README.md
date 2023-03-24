@@ -9,3 +9,4 @@ Currently studing UG on Computer Science, in UK. \
 My email and the link to my page are written in my GitHub Profile.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahuidhsu&show_icons=true&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=sahuidhsu&theme=onedark)
