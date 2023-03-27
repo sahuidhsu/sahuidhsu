@@ -3,7 +3,7 @@
 You can call me Tenjin or TS \
 \
 英国本科CS在读 \
-Currently studing UG on Computer Science, in UK. \
+Currently studying UG on Computer Science, in UK. \
 \
 个人资料有联系邮箱和我的个人网站地址 \
 My email and the link to my page are written in my GitHub Profile.
