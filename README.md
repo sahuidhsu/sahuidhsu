@@ -7,6 +7,9 @@ Currently studying UG on Computer Science, in UK. \
 \
 个人资料有联系邮箱和我的个人网站地址 \
 My email and the link to my page are written in my GitHub Profile.
+\
+如果下方两张图片未能成功加载，请尝试刷新本页面 \
+If the two graphs below aren't showing up, please try refreshing this page
 
 ![Anurag's GitHub stats](https://githubstats.tian-shen.me/api?username=sahuidhsu&show_icons=true&theme=onedark)
 ![Top Langs](https://githubstats.tian-shen.me/api/top-langs?username=sahuidhsu&theme=onedark) \
