@@ -2,8 +2,8 @@
 这里是天神 \
 You can call me Tenjin or TS \
 \
-英国本科CS在读 \
-Currently studying UG on Computer Science, in UK. \
+新加坡EEE硕士在读 \
+Currently studying MSc on EEE in Singapore. \
 \
 个人资料有联系邮箱和我的个人网站地址 \
 My email and the link to my page are written in my GitHub Profile.
