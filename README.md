@@ -1,12 +1,12 @@
 ## 哈喽你好鸭 Hi There 👋
 这里是天神 \
-You can call me Tenjin or TS \
+You can call me Sky or TS \
 \
 新加坡EEE硕士在读 \
 Currently studying MSc on EEE in Singapore. \
 \
 个人资料有联系邮箱和我的个人网站地址 \
-My email and the link to my page are written in my GitHub Profile.
+Email and the link to my page are written in Profile.
 \
 如果下方两张图片未能成功加载，请尝试刷新本页面 \
 If the two graphs below aren't showing up, please try refreshing this page
